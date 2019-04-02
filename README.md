@@ -21,22 +21,22 @@ Constraints
 Print the names (based on the criteria) of the students who are not served at all after executing all  events; if every student in the queue was served, then print EMPTY.
 
 ## Sample Input 
-12  
-ENTER John 3.75 50 
-ENTER Mark 3.8 24 
-ENTER Shafaet 3.7 35 
-SERVED 
-SERVED 
-ENTER Samiha 3.85 36 
-SERVED 
-ENTER Ashley 3.9 42 
-ENTER Maria 3.6 46 
-ENTER Anik 3.95 49 
-ENTER Dan 3.95 50 
-SERVED 
+12  <br />
+ENTER John 3.75 50 <br />
+ENTER Mark 3.8 24 <br />
+ENTER Shafaet 3.7 35 <br />
+SERVED <br />
+SERVED <br />
+ENTER Samiha 3.85 36 <br />
+SERVED <br />
+ENTER Ashley 3.9 42 <br />
+ENTER Maria 3.6 46 <br />
+ENTER Anik 3.95 49 <br />
+ENTER Dan 3.95 50 <br />
+SERVED <br />
 
 ## Sample Output
-Dan 
-Ashley 
-Shafaet 
-Maria 
+Dan <br />
+Ashley <br />
+Shafaet <br />
+Maria <br />
