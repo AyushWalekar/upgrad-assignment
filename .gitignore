@@ -1,2 +1,4 @@
-/studentmanager/nbproject/private/
-/studentmanager/build/
+studentmanager/build/
+studentmanager/build.xml
+studentmanager/manifest.mf
+studentmanager/nbproject/
